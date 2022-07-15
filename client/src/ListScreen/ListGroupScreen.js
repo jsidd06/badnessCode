@@ -8,7 +8,7 @@ import {
 
 function ListGroupScreen() {
   return (
-    <div>
+    <div className="mt-3">
       <ListGroup>
         <ListGroupItem active>
           <ListGroupItemHeading>List group item heading</ListGroupItemHeading>

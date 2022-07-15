@@ -3,7 +3,7 @@ import { Table } from "reactstrap";
 
 function TableScreen() {
   return (
-    <div>
+    <div className="mt-3">
       <Table striped>
         <thead>
           <tr>

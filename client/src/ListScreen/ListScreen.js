@@ -3,7 +3,7 @@ import { ListGroup, ListGroupItem } from "reactstrap";
 
 function ListScreen() {
   return (
-    <div>
+    <div className="mt-3">
       <ListGroup>
         <ListGroupItem color="success">Cras justo odio</ListGroupItem>
         <ListGroupItem color="info">Dapibus ac facilisis in</ListGroupItem>

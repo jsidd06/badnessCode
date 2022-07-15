@@ -8,7 +8,7 @@ import {
 
 function According() {
   return (
-    <div>
+    <div className="mt-3">
       <Accordion open="1" toggle={function noRefCheck() {}}>
         <AccordionItem>
           <AccordionHeader targetId="1">Accordion Item 1</AccordionHeader>

@@ -12,7 +12,7 @@ import {
 
 function CardScreen() {
   return (
-    <CardGroup>
+    <CardGroup className="mt-3">
       <Card>
         <CardImg
           alt="Card image cap"
